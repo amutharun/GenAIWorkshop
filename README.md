@@ -8,3 +8,4 @@ List of handson topics
 3) Reimagine_ML_Problems_with_LLMs.ipynb: Solve traditional ML problems using Gen AI
 4) Prompt_Engineering.ipynb: Simple to Advanced Prompt Engineering techniques using OpenAI models
 5) RAG_A_Complete_Guide.ipynb: Learn how to build a RAG system to Talk2YouData from the scratch.
+6) Talk2YourDoc RAG.ipynb: Build a RAG system to chat with your PDF
